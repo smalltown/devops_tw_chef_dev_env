@@ -1,0 +1,7 @@
+name             'chef_dev_env'
+maintainer       'YOUR_NAME'
+maintainer_email 'YOUR_EMAIL'
+license          'All rights reserved'
+description      'Installs/Configures chef_dev_env'
+long_description 'Installs/Configures chef_dev_env'
+version          '0.1.0'
